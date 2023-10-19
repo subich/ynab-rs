@@ -15,7 +15,7 @@ use ynab_types::{
     Account,
 };
 
-const BASE_URL: &str = "https://api.youneedabudget.com/v1";
+const BASE_URL: &str = "https://api.ynab.com/v1";
 
 mod types;
 pub use types::{
